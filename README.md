@@ -23,14 +23,20 @@ This repository contains a collection of projects that demonstrate my skills in 
 - **Overview**: Explored relationships between movie budget, revenue, popularity, and other variables.
 - **Focus**: Data visualization and correlation analysis.
 
----
+### 5. **Airbnb Market Intelligence**
+- **Tools**: Python (Pandas, Jupyter), Git, VS Code
+- **Overview**: Built an end-to-end pipeline to clean, transform, and analyze Airbnb listings data from Texas.
+- **Focus**: Data ingestion, transformation, and revenue insights with visualizations.
+- 🔗 [View Project on GitHub](https://github.com/DianUmurerwa/airbnb-market-intelligence)
+
 
 ##  Work In Progress
 
-More data engineering–focused projects will be added soon, including:
-- Airbnb Market Intelligence Pipeline
+
+More data engineering–focused projects coming soon, including:
 - API Ingestion Projects
 - Cloud + ETL Demos
+
 
 Stay tuned!
 
